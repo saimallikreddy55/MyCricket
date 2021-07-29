@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/firstFragment"
+          android:title="New Match"
+          android:icon="@drawable/newmatch" />
+
+    <item android:id="@+id/secondFragment"
+          android:title="Teams"
+          android:icon="@drawable/players" />
+
+    <item android:id="@+id/thirdFragment"
+          android:title="History"
+          android:icon="@drawable/history" />
+</menu>

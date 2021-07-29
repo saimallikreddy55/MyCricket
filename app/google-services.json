@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994801071369",
+    "project_id": "my-cricket-96ee1",
+    "storage_bucket": "my-cricket-96ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994801071369:android:059d10f3ca9f6e961c4fd8",
+        "android_client_info": {
+          "package_name": "com.example.mycricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994801071369-4naco8t51sgebc1dgp2r1vd1rjhv7ofv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMKhhP2SazFzo_1s3gVRcclODnwWXWPHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994801071369-4naco8t51sgebc1dgp2r1vd1rjhv7ofv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
